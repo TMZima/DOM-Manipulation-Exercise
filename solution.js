@@ -46,4 +46,6 @@ function solveTask8() {
   document.getElementById("task8").appendChild(newButton);
 }
 
-function solveTask9() {}
+function solveTask9() {
+  document.getElementById("task9").remove();
+}
