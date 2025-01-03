@@ -32,7 +32,9 @@ function solveTask5() {
   document.getElementById("task5").href = "https://www.springboard.com/";
 }
 
-function solveTask6() {}
+function solveTask6() {
+  document.getElementById("task6").value = "DOM Master";
+}
 
 function solveTask7() {}
 
