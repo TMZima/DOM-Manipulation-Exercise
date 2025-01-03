@@ -28,7 +28,9 @@ function solveTask4() {
   });
 }
 
-function solveTask5() {}
+function solveTask5() {
+  document.getElementById("task5").href = "https://www.springboard.com/";
+}
 
 function solveTask6() {}
 
