@@ -22,7 +22,11 @@ function solveTask3() {
   document.body.style.backgroundColor = "#232323";
 }
 
-function solveTask4() {}
+function solveTask4() {
+  document.querySelectorAll(".item").forEach((item) => {
+    item.style.border = "2px solid black";
+  });
+}
 
 function solveTask5() {}
 
