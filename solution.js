@@ -40,6 +40,10 @@ function solveTask7() {
   document.getElementById("task7").classList = "new-class";
 }
 
-function solveTask8() {}
+function solveTask8() {
+  const newButton = document.createElement("button");
+  newButton.innerText = "New Button";
+  document.getElementById("task8").appendChild(newButton);
+}
 
 function solveTask9() {}
