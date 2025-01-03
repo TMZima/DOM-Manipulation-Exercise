@@ -36,7 +36,9 @@ function solveTask6() {
   document.getElementById("task6").value = "DOM Master";
 }
 
-function solveTask7() {}
+function solveTask7() {
+  document.getElementById("task7").classList = "new-class";
+}
 
 function solveTask8() {}
 
